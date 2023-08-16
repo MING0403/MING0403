@@ -23,3 +23,4 @@
 👩 ABOUT ME <br>
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mi.in.ah0403@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/민아-한-55bb83288/)](https://www.linkedin.com/in/민아-한-55bb83288)
+<a href="https://www.notion.so/ming98/f57fef3c8776423aa2eb9af599921803?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ming98/f57fef3c8776423aa2eb9af599921803?pvs=4"/></a>
